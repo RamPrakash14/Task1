@@ -1,0 +1,7 @@
+Write a blog about objects and its internal representation in Javascript
+
+Object is a reference data type.
+Objects in Javascript its a most important datatype and forms the builidng blocks of modern Javascript.
+A property of an  object can be explained as variable that is attached to the object.
+It can access the properties in simple dot notation. Ex: objectName.propertyName
+Objects are sometimes called associative arrrays.since each property is associated with a string value that can be used to access it.
